@@ -539,7 +539,6 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills) - Transform docs or codebases into interactive StudyVaults
 - [hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) - Hierarchical memory system with filesystem persistence
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Manage Linear issues, projects, and teams
-- [K-kiron/RepoQuest](https://github.com/K-kiron/RepoQuest) - Turn verified Python bug fixes into offline debugging games
 - [K-kiron/PaperCourt](https://github.com/K-kiron/PaperCourt) - Trace empirical ML paper claims to evidence and repeatable checks
 </details>
 
@@ -553,6 +552,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
 - [K-kiron/RageClick](https://github.com/K-kiron/RageClick) - Replay local web interaction failures with browser evidence
 - [K-kiron/ProveIt](https://github.com/K-kiron/ProveIt) - Check that the same pytest regression test fails before a fix and passes after it
+- [K-kiron/RepoQuest](https://github.com/K-kiron/RepoQuest) - Turn verified Python bug fixes into offline debugging games
 </details>
 
 <details>
